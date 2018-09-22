@@ -1,4 +1,4 @@
-package com.ajay.design.patterns.udemy.solid.section02;
+package com.ajay.design.patterns.udemy.section02.solid;
 
 import java.util.List;
 import java.util.stream.Stream;
