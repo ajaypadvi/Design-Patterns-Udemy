@@ -1,4 +1,4 @@
-package com.ajay.design.patterns.udemy.section03;
+package com.ajay.design.patterns.udemy.section03.builder;
 
 /**
  * An example to verify builder generator plugin
