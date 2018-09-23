@@ -1,4 +1,4 @@
-package com.ajay.design.patterns.udemy.section03.builder.facets;
+package com.ajay.udemy.design.patterns.creational.section03.builder.facets;
 
 class Person {
     // address

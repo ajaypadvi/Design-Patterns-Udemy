@@ -1,4 +1,4 @@
-package com.ajay.design.patterns.udemy.section02.solid;
+package com.ajay.udemy.design.patterns.creational.section02.solid;
 
 class Document {
 }

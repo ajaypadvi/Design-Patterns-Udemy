@@ -1,4 +1,4 @@
-package com.ajay.design.patterns.udemy.section03.builder.inheritance;
+package com.ajay.udemy.design.patterns.creational.section03.builder.inheritance;
 
 // builder inheritance with recursive generics
 
